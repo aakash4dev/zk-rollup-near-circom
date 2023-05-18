@@ -1,0 +1,1 @@
+// erc 20 token smart contract: which represent l2 rollup token price as compared to main chain

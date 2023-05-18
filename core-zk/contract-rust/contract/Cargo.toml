@@ -1,0 +1,39 @@
+[package]
+name = "hello_near"
+version = "1.0.0"
+authors = ["Near Inc <hello@near.org>"]
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+anyhow = "1.0.70"
+ark-bn254 = "0.4.0"
+ark-ec = "0.4.2"
+ark-ff = "0.4.2"
+ark-groth16 = "0.4.0"
+bors = "0.0.0"
+borsh = "0.10.3"
+byteorder = "1.4.3"
+crate = "0.0.2"
+hex = "0.4.3"
+near-bigint = "1.0.1"
+near-sdk = "4.0.0"
+near-sys = "0.2.0"
+near_groth16_verifier = "1.0.1"
+rustc-hex = "2.1.0"
+serde-json-wasm = "0.5.1"
+thiserror = "1.0.40"
+uint = { version = "0.9.3", default-features = false }
+
+[profile.release]
+codegen-units = 1
+opt-level = "z"
+lto = true
+debug = false
+panic = "abort"
+overflow-checks = true
+
+[workspace]
+members = []

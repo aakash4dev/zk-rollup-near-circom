@@ -1,0 +1,13 @@
+/home/aakash/airchains/zk-rollup-near-circom/core-zk/contract-rust/contract/target/debug/deps/tracing-9e3fcd2e7446d2c5.rmeta: /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/lib.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/macros.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/dispatcher.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/field.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/instrument.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/level_filters.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/span.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/stdlib.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/subscriber.rs
+
+/home/aakash/airchains/zk-rollup-near-circom/core-zk/contract-rust/contract/target/debug/deps/tracing-9e3fcd2e7446d2c5.d: /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/lib.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/macros.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/dispatcher.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/field.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/instrument.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/level_filters.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/span.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/stdlib.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/subscriber.rs
+
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/lib.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/macros.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/dispatcher.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/field.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/instrument.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/level_filters.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/span.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/stdlib.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.37/src/subscriber.rs:

@@ -1,0 +1,1 @@
+alike ERC20 token

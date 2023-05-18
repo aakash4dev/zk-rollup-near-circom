@@ -1,0 +1,11 @@
+/home/aakash/airchains/zk-rollup-near-circom/core-zk/contract-rust/contract/target/wasm32-unknown-unknown/release/deps/ark_serialize-27c6e38f44556796.rmeta: /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/lib.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/error.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/flags.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/impls.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/../README.md
+
+/home/aakash/airchains/zk-rollup-near-circom/core-zk/contract-rust/contract/target/wasm32-unknown-unknown/release/deps/libark_serialize-27c6e38f44556796.rlib: /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/lib.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/error.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/flags.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/impls.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/../README.md
+
+/home/aakash/airchains/zk-rollup-near-circom/core-zk/contract-rust/contract/target/wasm32-unknown-unknown/release/deps/ark_serialize-27c6e38f44556796.d: /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/lib.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/error.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/flags.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/impls.rs /home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/../README.md
+
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/lib.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/error.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/flags.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/impls.rs:
+/home/aakash/.cargo/registry/src/github.com-1ecc6299db9ec823/ark-serialize-0.4.2/src/../README.md:

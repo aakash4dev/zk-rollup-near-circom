@@ -1,0 +1,1 @@
+{"rustc":3257411903276762393,"features":"[]","target":4090379456994606200,"profile":3735503092003429423,"path":5209970469622830092,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/crate-00fd4630ee056821/dep-lib-crate"}}],"rustflags":["-C","link-args=-s"],"metadata":11341454143496107606,"config":2202906307356721367,"compile_kind":0}
