@@ -3,8 +3,6 @@ require("dotenv").config();
 const { connect, keyStores, utils } = nearAPI;
 const delay = require("delay");
 
-
-
 const update_state = async (batchNumber) => {
   try {
       let privateKey = process.env.key
